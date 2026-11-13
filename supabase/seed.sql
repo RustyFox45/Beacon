@@ -1,0 +1,3 @@
+-- Seed data for local development.
+-- This file is run automatically by `supabase db reset`.
+-- Add any dev-only fixture data here (e.g. test accounts, sample groups).
